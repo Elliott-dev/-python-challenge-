@@ -27,6 +27,14 @@ Both of these challenges encompass a real-world situation where my newfound Pyth
 
 * The greatest decrease in profits (date and amount) over the entire period
 
+Financial Analysis
+----------------------------
+Total Months: 86
+Total: $38382578
+Average Change: $-426534.66
+Greatest Increase in Profits: Feb-2012 ($302709)
+Greatest Decrease in Profits: Sep-2013 ($-2064109)
+
 
 ## PyPoll
 
