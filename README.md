@@ -5,9 +5,8 @@ Python Challenge
 
 Well... I've made it!
 
-It's time to put away the Excel sheet and join the big leagues. Welcome to the world of programming with Python. In this challenge, i'll be using the concepts you've learned to complete the **two** Python Challenges, PyBank and PyPoll.
+It's time to put away the Excel sheet and join the big leagues. Welcoming me to the world of programming with Python. In this challenge, I'll be using the concepts you've learned to complete the **two** Python Challenges, PyBank and PyPoll.
 
-Both of these challenges encompass a real-world situation where my newfound Python scripting skills can come in handy. These challenges are far from easy so expect some hard work ahead!
 
 ## PyBank
 
